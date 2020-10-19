@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["jQuery","children","print"],"mappings":"AAAA;;;;AAIAA,MAAM,CAAC,OAAD,CAAN,CACKC,QADL,GAEKC,KAFL","file":"main.1f19ae8e.js","sourceRoot":"..\\src","sourcesContent":["/*jQuery('.test')//因为return返回了对象\r\n    .addClass('red')\r\n    .addClass('blue')//链式操作\r\n*/\r\njQuery('.test') \r\n    .children()\r\n    .print()"]}
